@@ -17,5 +17,5 @@
 <p>    Press Esc key again to pause programe</p>
 <img src='test1.png' height='360' width='480' al='file not found'>
 <br>
-<b><p>[+]Coded_by_Pasindu_Sandeepa</p><br>
-[@]bombtiktiktik54321@gmail.com</b>
+<b><p>[+]Coded_by_Pasindu_Sandeepa</p>
+  <p>[@]bombtiktiktik54321@gmail.com</p></b>
